@@ -1,9 +1,10 @@
 <h2><samp>📌 Laks Castro</h2></samp>
 
 <samp>
-  <blockquote>💡 Web Developer</blockquote>
-  <blockquote>⭐ Beginner Mobile Developer</blockquote>
-  <blockquote>🕹 Future Game Developer</blockquote>
+  <blockquote>💡 Web Developer<br>
+  ⭐ Beginner Mobile Developer<br>
+  🕹 Future Game Developer<br>
+  </blockquote>
 </samp>
 
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&theme=dracula&show_icons=true" />
