@@ -12,7 +12,7 @@
 ### <samp>✨ Contact</samp>
 - <samp>Discord `Laks#6909`</samp>
 
-### ⚡ Useless data
+### <samp>⚡ Useless data</samp>
 ```dart
 1. [ ] Coffe    [ ] Tea    [x] Chocolate         
 2. [x] Rain     [ ] Sun    [ ] Snow              
