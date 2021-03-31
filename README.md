@@ -4,16 +4,16 @@
   <blockquote>💡 Web Developer<br>
   ⭐ Mobile Developer<br>
   🕹 Future Game Developer<br>
-  🔥 Mathematician Enthusiast<br>
+  🌹 Mathematician Enthusiast<br>
   </blockquote>
 </samp>
 
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
 
-### <samp>✨ Contact</samp>
+### <samp>🍪 Contact</samp>
 - <samp>Discord `Laks#1618`</samp>
 
-### <samp>⚡ Useless data</samp>
+### <samp>🔮 Useless data</samp>
 ```dart
 1. [ ] Coffe    [ ] Tea    [x] Chocolate         
 2. [x] Rain     [ ] Sun    [ ] Snow              
@@ -22,8 +22,28 @@
 5. [x] S;G      [x] FMA    [x] Fate              
 ```
 
-### <samp>💎 About</samp>
-<samp>Hello! Welcome to this profile. My way of development is very simple: I like to work on small personal projects for fun (like the ones that are pinned) but I work mostly on freelance projects at [Workana](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown) and [99Freelas.](https://www.99freelas.com.br/user/Laks-Castro)</samp>
+### <samp>🌷 About</samp>
+<samp>Hello! Welcome to this profile. My way of development is very simple: I like to work on small personal projects for fun (like the ones that are pinned) but I work mostly on freelance projects at [Workana.](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)
+
+### <samp>🕒 Current work availability <sup>`Project Type`</sup></samp>
+
+| <samp>Project Type</samp> | <samp>Availability</samp> |
+|--------------|--------------|
+| <samp>Part time</samp>    | <samp>No</samp>          |
+| <samp>Full time</samp>    | <samp>No</samp>           |
+
+### <samp>💻 Current work availability <sup>`Project Duration`</sup></samp>
+
+| <samp>Project Duration</samp> | <samp>Availability</samp> |
+|--------------|--------------|
+| <samp>Short term (6 months or less)</samp>    | <samp>No</samp>          |
+| <samp>Long term (6 months or more)</samp>    | <samp>No</samp>           |
+
+### <samp>⌛ Current work availability <sup>`Hours`</sup></samp>
+
+| <samp>Monday</samp> | <samp>Tuesday</samp> | <samp>Wednesday</samp> | <samp>Thursday</samp> | <samp>Friday</samp> | <samp>Saturday</samp> | <samp>Sunday</samp> |
+|--------|---------|-----------|----------|--------|----------|--------|
+| <samp>None</samp>     | <samp>None</samp>      | <samp>None</samp>        | <samp>None</samp>       | <samp>None</samp>     | <samp>None</samp>       | <samp>None</samp>   |
 
 ### <samp>💻 Programming</samp>
 ```
@@ -47,7 +67,7 @@
 3. Korean (Beginner, read only)<br>
 </samp>
 
-### <samp>ℹ️ Others</samp>
+### <samp>🌵 Others</samp>
 ```
 Favorite endless game: PinOut & Smash Hit
 I like: Web|Native Animations and C++ Programming
