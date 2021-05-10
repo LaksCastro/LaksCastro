@@ -4,7 +4,7 @@
   <blockquote>💡 Web Developer<br>
   ⭐ Mobile Developer<br>
   🕹 Future Game Developer<br>
-  🌹 Mathematician Enthusiast<br>
+  🌹 Math Enthusiast<br>
   </blockquote>
 </samp>
 
