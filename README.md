@@ -1,86 +1,38 @@
-<h2><samp>📌 Laks Castro</h2></samp>
+<h3><samp>🌿 Laks Castro</h3></samp>
 
-<samp>
-  <blockquote>💡 Web Developer<br>
-  ⭐ Mobile Developer<br>
-  🕹 Future Game Developer<br>
-  🌹 Math Enthusiast<br>
-  </blockquote>
-</samp>
+<p>
+<samp><sup><code>🍃 Mobile Developer (1y)</code></sup></samp>
+<samp><sup><code>🍂 Web Developer (3y)</code></sup></samp>
+<br>
+<samp><sup><code>🔵 Dart & Flutter (1y)</code></sup></samp>
+<samp><sup><code>🟠 Javascript (3y)</code></sup></samp>
+<samp><sup><code>🔴 ReactJS (2y)</code></sup></samp>
+<samp><sup><code>🟢 NodeJS (2y)</code></sup></samp>
+<br>
+<samp><sup><code>🎨 Front-end & Mobile (90%)</code></sup></samp>
+<samp><sup><code>🖥️ Back-end (60%)</code></sup></samp>
+</p>
+
+### <samp>🗺️ Roadmap...</samp>
+- <a href="/AVAILABILITY.md"><samp>Current work availability <sup>`Employed but open to opportunities 🟡`</sup></samp></a>
+- <a href="/SOCIAL.md"><samp>You can find me at...</samp></a>
+  
+### <samp>🎮 Full time hobbies...</samp>
+- <samp>Play with [Android API's.](https://developer.android.com/about/versions/11/features)</samp>
+- <samp>Code UI/UX Design's, [like these.](https://www.figmaresources.com/)</samp>
+- <samp>Work on freelance/full-time projects at [Workana.](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)</samp>
+- <samp>Study Algorithms's, Data-structures, and Math. At [Hacker Rank,](https://www.hackerrank.com/LaksCastro) [URI Online](https://www.urionlinejudge.com.br/judge/pt/profile/297388) and [Wikipédia.](https://en.wikipedia.org/wiki/Mathematics)</samp>
+  
+### <samp>♟️ Also, I like...</samp>
+- <samp>Create & Edit pictures using [Krita.](https://krita.org/en/)</samp>
+- <samp>Create & Listen Synth/Electronic [songs like these.](https://www.youtube.com/watch?v=kgBcg4uBd9Q&ab_channel=NightrideFM)</samp>
+- <samp>Animes, SCI-FI Series and Chess.</samp>
+- <samp>Best Waifus: [Senjouhara,](https://www.youtube.com/watch?v=EwggoreDBZc&ab_channel=AndyTurnerAndyTurner) [Kurisutina.](https://www.youtube.com/watch?v=a-GqSWsISVs&ab_channel=FootBallHead)</samp>
+
+### <samp>🌐 Some Github data...</samp>
 
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
 
-### <samp>🍪 You can find me at...</samp>
-| <samp>Social media | <samp>Link</samp>                                                                                                 |
-|--------------|------------------------------------------------------------------------------------------------------|
-| <samp>Github</samp>       | <samp>[@LaksCastro](https://github.com/LaksCastro)</samp>                                                         |
-| <samp>Workana</samp>      | <samp>[Laks Castro](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)</samp> |
-| <samp>Website</samp>      | <samp>[Available here](https://lakscastro.github.io/)</samp>                                                      |
-| <samp>Discord</samp>      | <samp>[Laks#1618]( https://discordapp.com/users/811690461038903347/)</samp>                                       |
-| <samp>Linkedin</samp>     | <samp>[@lakscastro](https://www.linkedin.com/in/lakscastro/)</samp>                                               |
-| <samp>Google Play</samp>  | <samp>[Laks Castro](https://play.google.com/store/apps/dev?id=6898322761313267929)</samp>                                               |
-  
+<br>
 
-### <samp>🔮 Useless data...</samp>
-```
-1. [ ] Coffe    [ ] Tea    [x] Chocolate         
-
-2. [x] Rain     [ ] Sun    [ ] Snow            
-   
-3. [ ] Day      [x] Night  [ ] Afternoon        
-   
-4. [ ] Macbook  [x] PC     [ ] Notebook       
-       
-5. [x] S;G      [x] FMA    [x] Fate              
-```
-
-### <samp>🌷 About...</samp>
-<samp>Hello! Welcome to this profile. My way of development is very simple: I like to work on small personal projects for fun (like the ones that are pinned) but I work mostly on freelance projects at [Workana.](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)
-
-### <samp>🕒 Current work availability <sup>`Project Type`</sup></samp>
-
-| <samp>Project Type</samp> | <samp>Availability</samp> |
-|--------------|--------------|
-| <samp>Part time</samp>    | <samp>No</samp>          |
-| <samp>Full time</samp>    | <samp>No</samp>           |
-
-### <samp>💻 Current work availability <sup>`Project Duration`</sup></samp>
-
-| <samp>Project Duration</samp> | <samp>Availability</samp> |
-|--------------|--------------|
-| <samp>Short term (6 months or less)</samp>    | <samp>No</samp>          |
-| <samp>Long term (6 months or more)</samp>    | <samp>No</samp>           |
-
-### <samp>⌛ Current work availability <sup>`Hours`</sup></samp>
-
-| <samp>Monday</samp> | <samp>Tuesday</samp> | <samp>Wednesday</samp> | <samp>Thursday</samp> | <samp>Friday</samp> | <samp>Saturday</samp> | <samp>Sunday</samp> |
-|--------|---------|-----------|----------|--------|----------|--------|
-| <samp>None</samp>     | <samp>None</samp>      | <samp>None</samp>        | <samp>None</samp>       | <samp>None</samp>     | <samp>None</samp>       | <samp>None</samp>   |
-
-### <samp>💻 Programming...</samp>
-```
-- I can build some cool stuff with...
-1. Dart
-2. Typescript
-3. C++
-4. Java
-5. Kotlin
-```
-```
-- I only know 'Hello World'...
-1. C
-2. Rust
-3. Go
-```
-
-### <samp>🌐 Languages...</samp>
-<samp>1. Portuguese (Maternal)<br>
-2. English (Intermediate, read only)<br>
-3. Korean (Beginner, read only)<br>
-</samp>
-
-### <samp>🌵 Others...</samp>
-```
-Favorite endless game: PinOut & Smash Hit
-I like: Web|Native Animations and C++ Programming
-```
+<sup><samp><i>Tudo depende do quão bem você usa seu tempo, aprenda com o que já aconteceu <sup>💖</sup></i></samp></sup>
