@@ -23,7 +23,7 @@
 - <samp>Play with [Android API's.](https://developer.android.com/about/versions/11/features)</samp>
 - <samp>Code UI/UX Design's, [like these.](https://www.figmaresources.com/)</samp>
 - <samp>Work on freelance/full-time projects at [Workana.](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)</samp>
-- <samp>Study Algorithms's, Data-structures, and Math. At [Hacker Rank,](https://www.hackerrank.com/LaksCastro) [URI Online](https://www.urionlinejudge.com.br/judge/pt/profile/297388) and [Wikipédia.](https://en.wikipedia.org/wiki/Mathematics)</samp>
+- <samp>Study Algorithms's, Data-structures and Math. At [Hacker Rank,](https://www.hackerrank.com/LaksCastro) [URI Online](https://www.urionlinejudge.com.br/judge/pt/profile/297388) and [Wikipedia.](https://en.wikipedia.org/wiki/Mathematics)</samp>
   
 ### <samp>♟️ Also, I like...</samp>
 - <samp>Create & Edit pictures using [Krita.](https://krita.org/en/)</samp>
