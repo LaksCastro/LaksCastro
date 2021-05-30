@@ -1,6 +1,4 @@
 <h3><samp>🌿 Laks Castro</h3></samp>
-
-<p>
 <samp><sup><code>🍃 Mobile Developer (1y)</code></sup></samp>
 <samp><sup><code>🍂 Web Developer (3y)</code></sup></samp>
 <br>
@@ -11,7 +9,6 @@
 <br>
 <samp><sup><code>🎨 Front-end & Mobile (90%)</code></sup></samp>
 <samp><sup><code>🖥️ Back-end (60%)</code></sup></samp>
-</p>
 
 ### <samp>🗺️ Roadmap...</samp>
 - <a href="/AVAILABILITY.md"><samp>Current work availability <sup>`Employed but open to opportunities 🟡`</sup></samp></a>
