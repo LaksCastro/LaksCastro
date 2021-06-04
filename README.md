@@ -37,4 +37,4 @@
 
 <br>
 
-<sup><samp><i>Tudo depende do quão bem você usa seu tempo, aprenda com o que já aconteceu <sup>🕒</sup></i></samp></sup>
+<sup><samp><i>Upe bastante a skill de gerenciamento de tempo e disciplina <sup>🕒</sup></i></samp></sup>
