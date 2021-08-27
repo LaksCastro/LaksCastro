@@ -1,24 +1,21 @@
-<h3><samp>🌿 Laks Castro</h3></samp>
 
 <samp>
-  <sup>
-    <code>🍃 Mobile Developer (1y)</code>
-    <code>🍂 Web Developer (3y)</code>
-    <br>
-    <code>🔵 Dart & Flutter (1y)</code>
-    <code>🟠 Javascript (3y)</code>
-    <code>🔴 ReactJS (2y)</code>
-    <code>🟢 NodeJS (2y)</code>
-  </sup>
-</samp>
-  
-<samp><sup><code>🎨 Front-end & Mobile (90%)</code></sup>
-<samp><sup><code>🖥️ Back-end (60%)</code></sup></samp>
 
-### <samp>🗺️ Roadmap...</samp>
-- <a href="/AVAILABILITY.md"><samp>Current work availability... <sup>`Employed but open to opportunities 🟡`</sup></samp></a>
-- <a href="/SOCIAL.md"><samp>You can find me at...</samp></a>
   
+
+  
+
+  
+### <samp>💧 Hey HEY! **Stay hydrated!**</samp>
+  
+  
+Hi! I'm developer who loves:
+- Mobile Development for Android
+- Open Source Project's
+- Computational Geometry
+  
+</samp>
+   
 ### <samp>🎮 Full time hobbies...</samp>
 - <samp>Play with [Android API's.](https://developer.android.com/about/versions/11/features)</samp>
 - <samp>Code UI/UX Design's, [like these.](https://www.figmaresources.com/)</samp>
@@ -31,10 +28,441 @@
 - <samp>Animes, SCI-FI Series and Chess.</samp>
 - <samp>Best Waifus: [Senjouhara,](https://www.youtube.com/watch?v=EwggoreDBZc&ab_channel=AndyTurnerAndyTurner) [Kurisutina.](https://www.youtube.com/watch?v=a-GqSWsISVs&ab_channel=FootBallHead)</samp>
 
-### <samp>🌐 Some Github data...</samp>
+<br>
 
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&show_icons=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
+<samp>
+
+<sub>You can find me here <a href="/SOCIAL.md">@LaksCastro,</a> <a href="/AVAILABILITY.md">and check my availability here.<sup>?</sup></a></sub>
+  
+</samp>
+
+
+⠀
+
+<ul>
+  <p>
+     <kbd>
+  
+    
+
+
+<img src="https://user-images.githubusercontent.com/51419598/131097278-1bf178b7-2de0-4b56-bd82-be82d0a73edc.gif" height="254">
+  
+</kbd>
+  </p>
+</ul>
+
+
+<kbd>
+  
+  <sub>ESC⠀</sub>
+  
+</kbd>
+⠀⠀
+<kbd>
+  
+  <sub>F1⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F2⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F3⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F4⠀</sub>
+  
+</kbd>
+⠀⠀
+<kbd>
+  
+  <sub>F5⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F6⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F7⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F8⠀</sub>
+  
+</kbd>
+⠀⠀
+<kbd>
+  
+  <sub>F9⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F10⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F11⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F12⠀</sub>
+  
+</kbd>
+
 
 <br>
 
-<sup><samp>Invista em tempo e disciplina <sup>🕒</sup></samp></sup>
+
+
+<kbd>
+  
+  <sub>' "⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>1⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>2⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>3⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>4⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>5⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>6⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>7⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>8⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>9⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>0⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>- _⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>= +⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Backspace⠀⠀⠀</sub>
+  
+</kbd>
+
+
+<br>
+
+
+
+<kbd>
+  
+  <sub>Tab⠀⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Q⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>W⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>E⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>R⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>T⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Y⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>U⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>I⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>O⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>P⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>´ `⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>[ {⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Enter⠀⠀⠀⠀</sub>
+  
+</kbd>
+
+
+<br>
+
+
+
+<kbd>
+  
+  <sub>CapsLk⠀⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>A⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>S⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>D⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>F⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>G⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>H⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>J⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>K⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>L⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Ç⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>~ ^⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>] }⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>, .⠀⠀⠀</sub>
+  
+</kbd>
+
+
+<br>
+
+
+
+<kbd>
+  
+  <sub>Shift⠀⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>\\ |⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Z⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>X⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>C⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>V⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>B⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>N⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>M⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>\<⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>\>⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>; :⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>/ ?⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Shift⠀⠀</sub>
+  
+</kbd>
+
+
+<br>
+
+
+
+<kbd>
+  
+  <sub>Ctrl⠀⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>⊞⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Alt⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Space⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Alt⠀⠀</sub>
+  
+</kbd>
+<kbd>
+  
+  <sub>Ctrl⠀⠀</sub>
+  
+</kbd>
+
+⠀
+ 
+  
+  
